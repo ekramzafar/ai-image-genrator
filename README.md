@@ -1,7 +1,8 @@
-once i prompt this
+# once i prompt this
 ![logo](https://github.com/ekramzafar/ai-image-genrator/blob/main/Screenshot%202025-07-25%20161605.png)
-then open this
-![logo]()
+
+# then open this
+![logo](https://github.com/ekramzafar/ai-image-genrator/blob/main/mountain.png)
 # AiImageGenerator
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.2.
