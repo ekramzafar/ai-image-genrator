@@ -1,3 +1,4 @@
+![logo](https://github.com/ekramzafar/ekramzafar/blob/main/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner.png)
 # AiImageGenerator
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.2.
