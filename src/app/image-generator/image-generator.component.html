@@ -1,0 +1,14 @@
+<div style="text-align:center; margin-top: 50px;">
+    <h1>🎨 AI Image Generator</h1>
+    <input [(ngModel)]="prompt" placeholder="Describe your image..." style="width: 60%; padding: 10px;" />
+    <br /><br />
+    <button (click)="generateImage()" [disabled]="loading">Generate</button>
+    <div *ngIf="loading">⏳ Generating...</div>
+    <div *ngIf="imageUrl">
+      <h3>Generated Image</h3>
+      <img [src]="imageUrl" width="512" height="512" style="border: 1px solid #ccc;" />
+      <br />
+      <a [href]="imageUrl" download="generated.png">⬇️ Download</a>
+    </div>
+  </div>
+  
