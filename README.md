@@ -7,7 +7,7 @@
 # 🧩 Used Pieces
 This project leveraged Pieces for Developers to boost productivity and streamline development:
 
-🔖 Snippet Management: Saved frequently used code like Express server setup, Replicate API fetch, and .env handling for quick access and reuse.
+🔖 Snippet Management: Saved   frequently used code like Express server setup, Replicate API fetch, and .env handling for quick access and reuse.
 
 ✍️ Prompt Storage: Managed a library of effective AI image prompts to test and iterate quickly.
 
